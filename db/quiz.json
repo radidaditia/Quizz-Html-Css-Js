@@ -1,0 +1,72 @@
+[
+    {
+      "question": "Mengapa kucing tidak pernah bisa berbohong?",
+      "options": [
+        "Karena mereka selalu terbuka!",
+        "Mereka bisa berbohong, tapi hanya kepada anjing.",
+        "Mereka tahu bahwa keju selalu di bawah pengawasan."
+      ],
+      "correctAnswer": "Karena mereka selalu terbuka!",
+      "descriptionAnswers": "Kucing sering dianggap jujur karena mereka tidak bisa menyembunyikan ekspresi wajah mereka dengan baik seperti manusia."
+    },
+    {
+      "question": "Apa yang dikatakan tukang kebun ketika dia ingin bersenang-senang?",
+      "options": [
+        "Ayo, mari kita berkebun!",
+        "Waktunya untuk merawat tanaman dengan cinta.",
+        "Dia tidak pernah ingin bersenang-senang."
+      ],
+      "correctAnswer": "Ayo, mari kita berkebun!",
+      "descriptionAnswers": "Tukang kebun sering menghubungkan kesenangan dengan berkebun, menunjukkan kecintaan mereka pada tanaman dan taman."
+    },
+    {
+      "question": "Mengapa buaya tidak pernah menggunakan headset?",
+      "options": [
+        "Karena mereka lebih suka mendengarkan musik secara langsung.",
+        "Karena headset tidak muat di atas kepala mereka.",
+        "Karena mereka tidak suka kehilangan kontak dengan lingkungan sekitar."
+      ],
+      "correctAnswer": "Karena headset tidak muat di atas kepala mereka.",
+      "descriptionAnswers": "Buaya memiliki kepala yang besar dan bentuk yang tidak memungkinkan mereka untuk menggunakan headset seperti manusia."
+    },
+    {
+      "question": "Apa yang dikatakan gitar kepada pemainnya?",
+      "options": [
+        "Ayo, mainkan aku!",
+        "Tolong, jangan picu aku!",
+        "Dia tidak bisa berbicara, tapi bisa mengeluarkan melodi indah."
+      ],
+      "correctAnswer": "Ayo, mainkan aku!",
+      "descriptionAnswers": "Gitar sering dianggap memiliki kepribadian dan 'meminta' untuk dimainkan oleh pemainnya."
+    },
+    {
+      "question": "Mengapa buku tidak pernah bosan?",
+      "options": [
+        "Karena mereka penuh dengan cerita menarik.",
+        "Karena mereka selalu dapat menutupi halaman mereka.",
+        "Mereka bisa bosan, terutama jika mereka tidak dibaca."
+      ],
+      "correctAnswer": "Karena mereka selalu dapat menutupi halaman mereka.",
+      "descriptionAnswers": "Buku tidak pernah bosan karena mereka selalu dapat 'menutupi' halaman mereka, menghindari kebosanan seperti yang dialami manusia."
+    },
+    {
+      "question": "Apa yang dikatakan kolam renang kepada air lainnya?",
+      "options": [
+        "Mari kita berenang bersama!",
+        "Jangan berenang terlalu dalam!",
+        "Dia tidak bisa berbicara, tapi air bisa memberikan gelombang sebagai tanggapan."
+      ],
+      "correctAnswer": "Mari kita berenang bersama!",
+      "descriptionAnswers": "Kolam renang sering dianggap mengundang orang untuk berenang dan bersenang-senang di dalamnya."
+    },
+    {
+      "question": "Mengapa sapi tidak pernah bisa menjadi DJ?",
+      "options": [
+        "Karena mereka tidak punya selera musik.",
+        "Karena mereka tidak bisa memegang piringan hitam.",
+        "Sapi bisa menjadi DJ, mereka hanya memilih untuk menjadi peternak."
+      ],
+      "correctAnswer": "Karena mereka tidak bisa memegang piringan hitam.",
+      "descriptionAnswers": "Sapi tidak dapat menjadi DJ karena mereka tidak memiliki kemampuan fisik untuk memegang dan memutar piringan hitam seperti DJ manusia."
+    }
+]
